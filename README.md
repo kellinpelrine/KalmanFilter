@@ -1,4 +1,7 @@
 # KalmanFilter
+
+Author: Kellin Pelrine
+
 Code for a Kalman filter, Kalman smoother, and missing data interpolation.
 
 Kalman_filter_smoothing.m illustrates a Kalman filter and Kalman smoother. It produces plots like the following two:
