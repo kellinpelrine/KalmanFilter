@@ -14,6 +14,7 @@ Here blue is the underlying state (not observed), red is the observations, and g
 
 Blue is the state, red is the observations, black is the smoothed estimate (best prediction in hindsight).
 
+<br/><br/>
 Kalman_missing_data.m illustrates the use of a Kalman filter and Kalman smoother to impute missing data. It produces a plot like this:
 
 ![image](https://github.com/kellinpelrine/KalmanFilter/blob/master/Missing%20Data%20Graph.jpg)
